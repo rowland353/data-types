@@ -1,6 +1,6 @@
-        /*
-author:ekaipeter
-reg no.d33-2442-2023
+ /*
+author:Rowland wendo
+reg no.D33-0263-2022
 Program:to find simple interest 
 date:20/2/2025
 */
