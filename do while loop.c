@@ -1,5 +1,5 @@
 /*
-do while
+do while loop
 name: WENDO ROWLAND 
 ADMISSION:D33-0263-2022 
 BMS 201
