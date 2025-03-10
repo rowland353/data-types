@@ -1,6 +1,7 @@
 /*
 for loops
 name: Wendo Rowland 
+adm no; D33-0263-2022
 */
 #include<stdio.h>
 int main () {
